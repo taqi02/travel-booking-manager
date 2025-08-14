@@ -39,7 +39,7 @@ mongod --dbpath "C:\path\to\mongodb\data"
 
 3.Run the application:
 
-python booking_manager.py
+python tbm.py
 
 ##How to Use
 
