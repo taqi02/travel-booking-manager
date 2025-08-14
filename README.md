@@ -50,3 +50,7 @@ python booking_manager.py
 
 ##Screenshots
 
+![Image](https://github.com/user-attachments/assets/2fdcf2e3-61d9-4d7f-aa23-ed4914716a47)
+
+![Image](https://github.com/user-attachments/assets/913779f3-f3a1-425a-8f9f-790cef592e21)
+
